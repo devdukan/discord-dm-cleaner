@@ -36,13 +36,6 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License.
 
-## Contact
-The best place of contacting is the Discord server, as you can get help from other members.
-
-<a style="text-decoration: none;" href="https://dytuk.media/discord">
-    <img alt="Discord" src="https://img.shields.io/discord/851468794890158080?color=5865f2&label=%20Support&logo=discord&logoColor=white&style=for-the-badge">
-</a>
-
 ## Acknowledgments
 
 * [StackOverflow](https://stackoverflow.com/questions/tagged/batch-file)<br />The best place when I'm stuck 🤣
