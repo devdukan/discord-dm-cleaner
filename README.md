@@ -4,10 +4,10 @@
 
   <h3 align="center">Wumpdump<br />formerly; Discord Cache Cleaner</h3>
   
-  <a style="text-decoration: none;" href="https://youtu.be/ZIfhx-Qi8xo">
+  <a style="text-decoration: none;" href="[https://youtu.be/ZIfhx-Qi8xo](https://www.youtube.com/watch?v=cNTVn06-QrE&ab_channel=TroubleChute)">
     <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/ZIfhx-Qi8xo?label=watch%20showcase&style=for-the-badge"
   </a>
-  <a style="text-decoration: none;" href="https://youtu.be/ZIfhx-Qi8xo">
+  <a style="text-decoration: none;" href="[https://youtu.be/ZIfhx-Qi8xo](https://www.youtube.com/watch?v=cNTVn06-QrE&ab_channel=TroubleChute)">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/danielytuk?style=for-the-badge">
   </a>
 </div>
