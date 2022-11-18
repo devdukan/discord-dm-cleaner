@@ -5,10 +5,7 @@
   <h3 align="center">Wumpdump<br />formerly; Discord Cache Cleaner</h3>
   
   <a style="text-decoration: none;" href="https://youtu.be/ZIfhx-Qi8xo">
-    <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/ZIfhx-Qi8xo?label=watch%20showcase&style=for-the-badge">
-  </a>
-  <a style="text-decoration: none;" href="https://dytuk.media/discord">
-    <img alt="Discord" src="https://img.shields.io/discord/851468794890158080?color=5865f2&label=%20Support&logo=discord&logoColor=white&style=for-the-badge">
+    <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/ZIfhx-Qi8xo?label=watch%20showcase&style=for-the-badge"
   </a>
   <a style="text-decoration: none;" href="https://youtu.be/ZIfhx-Qi8xo">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/danielytuk?style=for-the-badge">
